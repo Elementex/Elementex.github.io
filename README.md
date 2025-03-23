@@ -1,6 +1,7 @@
+theme: jekyll-theme-cayman
 # Hello HOW DO YA DOO?
 # Section Heading
-theme: jekyll-theme-minimal
+
 Some body text of this section.
 
 <a name="my-custom-anchor-point"></a>
