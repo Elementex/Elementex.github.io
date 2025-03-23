@@ -1,7 +1,6 @@
 # Hello HOW DO YA DOO?
 # Section Heading
-theme: minima
-
+theme: jekyll-theme-minimal
 Some body text of this section.
 
 <a name="my-custom-anchor-point"></a>
