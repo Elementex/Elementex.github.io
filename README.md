@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+<body bgcolor="blue">
 # Hello HOW DO YA DOO?
 # Section Heading
 
