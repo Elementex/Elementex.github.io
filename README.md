@@ -1,5 +1,6 @@
 # Hello HOW DO YA DOO?
 # Section Heading
+theme: minima
 
 Some body text of this section.
 
